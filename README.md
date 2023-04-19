@@ -6,7 +6,7 @@ Creating an Easy User Interface using Streamlit for the marketing team to upload
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # Objective:  
-To predict and analyse 
+- To predict and analyse 
 RFM 
 K Means Clustering
 Churn Prediction 
